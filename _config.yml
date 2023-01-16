@@ -1,0 +1,33 @@
+# Your Name or Company
+title: Gold AppSec - Green Team Services
+
+# Description of your website. This is used for social sharing.
+description:  Green Team Services is to help you enhance security automation with design and code.
+
+# A brief blurb about yourself
+content: 
+
+# Add your social links
+# social:
+#   - platform: github
+#     url: https://github.com/brianmaierjr
+#   - platform: facebook
+#     url: https://facebook.com/brianmaierjr
+#   - platform: twitter
+#     url: https://twitter.com/brianmaierjr
+#   - platform: linkedin
+#     url: brianmaierjr
+
+# General settings
+baseurl: "/purple" 
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "G-3CLTHF25DG" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: left
+
+# Full layout
+full_text_position: left # left, right or center
